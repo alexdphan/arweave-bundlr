@@ -1,6 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 Credits to pbillingsby.eth
+[Decentralized storage with Arweave & Bundlr
+](https://pbillingsby.hashnode.dev/decentralized-storage-with-arweave-and-bundlr#comments-list)
 
 ## Getting Started
 
